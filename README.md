@@ -53,6 +53,10 @@
 		</tr>
 	</tbody>
 </table>
-    
+
+
+<h4> Links to other places just in case</h4>
+<a href="https://ny.eater.com/2017/7/31/16072296/local-leaf-lettuce-fast-casual-nyc">Local Leaf restaurant has almost no food waste</a>
+<a href=""></a>
 </body>
 </html>
