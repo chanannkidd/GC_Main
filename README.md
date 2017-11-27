@@ -17,7 +17,7 @@
 									restaurants in New York City</a></h3>
 									<p>Learn about the farm to table and other natural foods<br />
 									in New York City<br />
-									Blog provided by Ecoult.</p>
+									Blog provided by Ecocult.</p>
 								<img src="images/abckitchen2.jpg" alt="abckitchen" /></td>
 			<td><span class="date">October 30, 2017</span>
 				<h4><a href="https://www.foodnewsfeed.com/content/kellari-taverna-introduces-new-100-percent-sustainable-menu">New Sustainable Greek Restaurant</a></h4>
