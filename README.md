@@ -3,6 +3,12 @@
 <!--Header--> <!--item4-->
 <head> 
 <title>Restaurant Sustainability</title>  
+<!-- item 26-->
+        <link rel="icon"
+          type="image/png"
+          href="Basil_Leaves.png"
+          />
+<!---->
 <link rel="stylesheet" type="text/css" href="GC_css.css"/>
 </head>
 <body>
