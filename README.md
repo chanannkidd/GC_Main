@@ -11,7 +11,7 @@
           />
 <body>
 <div class="box">
-<h1>Restaurant Sustainability in NYC and China <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"></h1>
+<h1>Restaurant Sustainability in NYC &amp; China <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"></h1>
 <h2>By Chandler Kidd, Bethany Mann and Ke Hou</h2>
 <table style="width: 75%;border-collapse: collapse;" border = "2" cellpadding = "6" align= "center">
 	<tbody>
@@ -38,7 +38,7 @@
 									in New York City<br />
 									Information provided by Local Leaf.</p>
 								<img src="LocalLeaf1.jpeg" alt="LocalLeaf" width="200" /></td>
-            
+
 			<td> <span class="date">July 12, 2017</span>
 				<h4><a href="Gc_VeganBurger.html">Sustainable Burgers</a></h4>
 									<p>An East Village vegan burger place<br />
